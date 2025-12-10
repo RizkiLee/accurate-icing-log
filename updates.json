@@ -1,0 +1,12 @@
+{
+  "addons": {
+    "@accurate-ext.icing": {
+      "updates": [
+        {
+          "version": "1.521",
+          "update_link": ""
+        }
+      ]
+    }
+  }
+}
