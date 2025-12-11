@@ -3,6 +3,10 @@
     "@accurate-ext.icing": {
       "updates": [
         {
+          "version": "1.53",
+          "update_link": "https://raw.githubusercontent.com/RizkiLee/accurate-icing-log/refs/heads/main/accurate-ext.icing-log%201.53.xpi"
+        },
+        {
           "version": "1.521",
           "update_link": ""
         }
